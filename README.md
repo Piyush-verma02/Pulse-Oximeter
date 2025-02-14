@@ -1,2 +1,2 @@
 # Pulse-Oximeter
-A pulse Oximeter using Arduino un 
+A pulse Oximeter using Arduino uno
